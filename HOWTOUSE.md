@@ -1,6 +1,6 @@
 ## 使い方
 
-[5374 for YOUR_CITY](http://YOUR_CITY.domain/ )について説明します。
+[5374 for Adachi](http://adachi.5374.jp/ )について説明します。
 
 * **色でゴミのジャンルを表示**: 一番近いゴミの日とジャンルを上から順に表示しています。
 
@@ -10,7 +10,8 @@
 
 
 ## 提供されるゴミ情報について
-YOUR_CITYが公開しているオープンデータをもとにしています。
+足立区が公開しているオープンデータをもとにしています。
+http://www.city.adachi.tokyo.jp/gomi/kurashi/kankyo/documents/26gomi_bookhp.pdf
 
 
 ## 開発チームとライセンスについて
@@ -22,6 +23,6 @@ YOUR_CITYが公開しているオープンデータをもとにしています�
 本アプリ及びソースコードの著作権はCode for Kanazawaに帰属します。
 但し、このソースコードは[MPL](http://www.mozilla.org/MPL/2.0/)のもと配布されています。MPLに従えば、どなたでも利用、改変、及び再配布が可能です。
 
-## Contributers in YOUR_CITY
+## Contributers in Adachi
 
-[YOUR_NAME](http://github.com/YOUR_NAME)
+[Hideharu Okuma](http://github.com/hokuma)
